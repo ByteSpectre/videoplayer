@@ -1,4 +1,4 @@
 Just clone and run py script
-///bash
+```bash
 python player.py
-///
+```
